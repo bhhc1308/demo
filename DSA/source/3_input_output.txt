@@ -1,0 +1,7 @@
+Enter no of students: 3
+Enter the roll number of student: 125
+Enter the name of the student: Charan
+Enter the roll number of student: 245
+Enter the name of the student: Barath
+Enter the roll number of student: 34
+Enter the name of the student: Tarun
